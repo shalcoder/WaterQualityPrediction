@@ -1,7 +1,7 @@
-joblib
-numpy
+streamlit
 pandas
+numpy
 plotly
-logging
-warnings
+joblib
+scikit-learn
 json
